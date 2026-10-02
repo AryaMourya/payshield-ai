@@ -1,0 +1,301 @@
+transaction_id,date,description,category,amount,payment_method
+TXN0113,2026-01-01,Electricity,Bills,150.63,Card
+TXN0282,2026-01-01,Stationery,Education,363.98,UPI
+TXN0217,2026-01-01,Canteen,Food,541.48,UPI
+TXN0220,2026-01-01,Fuel Station,Travel,129.65,UPI
+TXN0106,2026-01-01,Canteen,Food,281.23,UPI
+TXN0155,2026-01-01,Clothing Store,Shopping,71.33,Card
+TXN0097,2026-01-01,Gift,Other,283.49,UPI
+TXN0271,2026-01-02,Gift,Other,143.65,Card
+TXN0103,2026-01-03,Gift,Other,179.44,UPI
+TXN0210,2026-01-04,Cafe,Food,193.33,UPI
+TXN0275,2026-01-04,Grocery Store,Food,220.47,Card
+TXN0019,2026-01-04,Cinema,Entertainment,90.23,UPI
+TXN0088,2026-01-05,Electricity,Bills,200.9,UPI
+TXN0296,2026-01-06,Cinema,Entertainment,306.66,UPI
+TXN0247,2026-01-06,Book Store,Shopping,704.79,Card
+TXN0128,2026-01-06,Canteen,Food,332.1,UPI
+TXN0078,2026-01-06,Clothing Store,Shopping,52.36,UPI
+TXN0157,2026-01-07,Cab,Travel,375.55,UPI
+TXN0083,2026-01-07,Electricity,Bills,312.07,UPI
+TXN0049,2026-01-07,Cafe,Food,145.96,UPI
+TXN0289,2026-01-08,Grocery Store,Food,140.71,UPI
+TXN0231,2026-01-08,Grocery Store,Food,133.94,Card
+TXN0196,2026-01-08,Miscellaneous,Other,90.15,UPI
+TXN0031,2026-01-09,Mobile Recharge,Bills,84.33,UPI
+TXN0241,2026-01-09,Miscellaneous,Other,478.57,UPI
+TXN0191,2026-01-09,Miscellaneous,Other,271.93,UPI
+TXN0233,2026-01-10,Cab,Travel,149.03,UPI
+TXN0228,2026-01-10,Gift,Other,79.66,Cash
+TXN0022,2026-01-10,Canteen,Food,75.39,UPI
+TXN0283,2026-01-11,Clinic,Healthcare,367.7,UPI
+TXN0145,2026-01-11,Internet,Bills,73.05,UPI
+TXN0202,2026-01-11,Internet,Bills,158.65,UPI
+TXN0197,2026-01-11,Streaming,Entertainment,369.55,UPI
+TXN0056,2026-01-12,Online Marketplace,Shopping,232.71,Cash
+TXN0126,2026-01-12,Gift,Other,158.08,UPI
+TXN0227,2026-01-13,Clothing Store,Shopping,153.36,Card
+TXN0245,2026-01-13,Gift,Other,15.31,UPI
+TXN0154,2026-01-14,Miscellaneous,Other,535.84,Card
+TXN0243,2026-01-15,Cafe,Food,291.83,UPI
+TXN0011,2026-01-15,Cab,Travel,76.61,UPI
+TXN0059,2026-01-15,Gift,Other,94.2,Card
+TXN0024,2026-01-15,Fuel Station,Travel,124.57,UPI
+TXN0256,2026-01-16,Books,Education,429.03,UPI
+TXN0176,2026-01-16,Clothing Store,Shopping,771.77,UPI
+TXN0052,2026-01-16,Canteen,Food,173.97,Card
+TXN0268,2026-01-16,Cab,Travel,254.76,UPI
+TXN0033,2026-01-16,Restaurant,Food,108.22,Cash
+TXN0032,2026-01-17,Grocery Store,Food,282.26,UPI
+TXN0297,2026-01-17,Course Fee,Education,176.25,Card
+TXN0080,2026-01-17,Cab,Travel,131.97,Cash
+TXN0236,2026-01-17,Bus/Metro,Travel,311.63,Card
+TXN0235,2026-01-17,Book Store,Shopping,100.62,UPI
+TXN0206,2026-01-18,Cinema,Entertainment,313.31,UPI
+TXN0066,2026-01-18,Cafe,Food,86.36,UPI
+TXN0223,2026-01-18,Clothing Store,Shopping,157.91,Card
+TXN0190,2026-01-18,Books,Education,234.32,UPI
+TXN0293,2026-01-19,Clinic,Healthcare,164.43,UPI
+TXN0043,2026-01-19,Book Store,Shopping,210.65,UPI
+TXN0136,2026-01-19,Internet,Bills,390.82,UPI
+TXN0284,2026-01-19,Bus/Metro,Travel,229.93,UPI
+TXN0046,2026-01-21,Gift,Other,197.51,UPI
+TXN0040,2026-01-22,Online Marketplace,Shopping,517.58,Card
+TXN0286,2026-01-22,Book Store,Shopping,137.47,UPI
+TXN0127,2026-01-23,Cinema,Entertainment,94.3,UPI
+TXN0124,2026-01-23,Book Store,Shopping,327.51,UPI
+TXN0116,2026-01-23,Cafe,Food,131.26,UPI
+TXN0226,2026-01-23,Gift,Other,47.95,UPI
+TXN0195,2026-01-23,Book Store,Shopping,84.79,UPI
+TXN0061,2026-01-23,Streaming,Entertainment,40.62,UPI
+TXN0189,2026-01-23,Book Store,Shopping,78.17,UPI
+TXN0117,2026-01-24,Course Fee,Education,338.49,UPI
+TXN0027,2026-01-24,Clinic,Healthcare,89.4,UPI
+TXN0182,2026-01-24,Fuel Station,Travel,338.13,UPI
+TXN0158,2026-01-24,Streaming,Entertainment,269.32,UPI
+TXN0291,2026-01-25,Streaming,Entertainment,138.24,Card
+TXN0186,2026-01-25,Mobile Recharge,Bills,59.37,UPI
+TXN0287,2026-01-25,Miscellaneous,Other,172.66,UPI
+TXN0277,2026-01-26,Miscellaneous,Other,190.07,UPI
+TXN0038,2026-01-26,Bus/Metro,Travel,327.96,Card
+TXN0238,2026-01-27,Clothing Store,Shopping,93.36,Card
+TXN0181,2026-01-27,Canteen,Food,36.3,UPI
+TXN0185,2026-01-27,Canteen,Food,83.7,UPI
+TXN0053,2026-01-27,Restaurant,Food,94.81,UPI
+TXN0288,2026-01-28,Restaurant,Food,86.26,UPI
+TXN0222,2026-01-28,Restaurant,Food,46.57,Cash
+TXN0039,2026-01-28,Restaurant,Food,55.23,Card
+TXN0273,2026-01-28,Clothing Store,Shopping,219.0,UPI
+TXN0179,2026-01-29,Electricity,Bills,121.72,Cash
+TXN0051,2026-01-29,Clinic,Healthcare,163.48,UPI
+TXN0075,2026-01-29,Gift,Other,194.69,UPI
+TXN0094,2026-01-29,Clothing Store,Shopping,210.44,Cash
+TXN0260,2026-01-30,Restaurant,Food,128.55,Card
+TXN0239,2026-01-30,Clinic,Healthcare,557.47,UPI
+TXN0047,2026-01-31,Clinic,Healthcare,336.66,UPI
+TXN0221,2026-01-31,Grocery Store,Food,196.58,UPI
+TXN0134,2026-01-31,Books,Education,274.25,UPI
+TXN0079,2026-01-31,Online Marketplace,Shopping,287.58,UPI
+TXN0170,2026-01-31,Electricity,Bills,484.99,UPI
+TXN0018,2026-02-01,Grocery Store,Food,286.48,UPI
+TXN0212,2026-02-02,Cafe,Food,119.96,UPI
+TXN0096,2026-02-02,Gift,Other,283.96,UPI
+TXN0114,2026-02-03,Canteen,Food,115.93,Cash
+TXN0161,2026-02-04,Cinema,Entertainment,110.05,UPI
+TXN0048,2026-02-04,Pharmacy,Healthcare,74.0,UPI
+TXN0300,2026-02-04,Internet,Bills,529.08,UPI
+TXN0257,2026-02-05,Pharmacy,Healthcare,206.29,Card
+TXN0250,2026-02-05,Grocery Store,Food,167.75,UPI
+TXN0147,2026-02-05,Electricity,Bills,294.45,UPI
+TXN0270,2026-02-06,Book Store,Shopping,233.38,Card
+TXN0229,2026-02-06,Canteen,Food,368.42,UPI
+TXN0004,2026-02-06,Stationery,Education,222.27,UPI
+TXN0021,2026-02-06,Course Fee,Education,220.72,UPI
+TXN0120,2026-02-06,Mobile Recharge,Bills,201.15,UPI
+TXN0234,2026-02-06,Miscellaneous,Other,141.67,UPI
+TXN0035,2026-02-07,Miscellaneous,Other,201.1,UPI
+TXN0164,2026-02-07,Book Store,Shopping,467.36,Card
+TXN0294,2026-02-07,Bus/Metro,Travel,115.23,Card
+TXN0204,2026-02-07,Gift,Other,81.16,UPI
+TXN0167,2026-02-08,Stationery,Education,622.81,UPI
+TXN0292,2026-02-08,Grocery Store,Food,378.98,UPI
+TXN0069,2026-02-08,Restaurant,Food,316.8,UPI
+TXN0055,2026-02-09,Canteen,Food,225.32,UPI
+TXN0162,2026-02-09,Cinema,Entertainment,195.35,Card
+TXN0012,2026-02-09,Streaming,Entertainment,176.95,UPI
+TXN0020,2026-02-09,Online Marketplace,Shopping,124.25,Card
+TXN0028,2026-02-10,Cafe,Food,283.21,UPI
+TXN0205,2026-02-10,Restaurant,Food,228.67,Card
+TXN0034,2026-02-10,Mobile Recharge,Bills,247.86,UPI
+TXN0225,2026-02-10,Bus/Metro,Travel,196.62,UPI
+TXN0172,2026-02-10,Online Marketplace,Shopping,54.61,Card
+TXN0109,2026-02-10,Cinema,Entertainment,99.47,UPI
+TXN0280,2026-02-10,Books,Education,60.14,UPI
+TXN0152,2026-02-11,Streaming,Entertainment,260.96,Card
+TXN0194,2026-02-11,Electricity,Bills,128.82,Card
+TXN0089,2026-02-12,Mobile Recharge,Bills,199.9,Card
+TXN0122,2026-02-12,Fuel Station,Travel,336.6,UPI
+TXN0187,2026-02-12,Streaming,Entertainment,154.08,UPI
+TXN0224,2026-02-13,Clothing Store,Shopping,68.55,UPI
+TXN0138,2026-02-13,Fuel Station,Travel,129.65,UPI
+TXN0026,2026-02-14,Gift,Other,128.28,Cash
+TXN0030,2026-02-14,Clinic,Healthcare,190.8,UPI
+TXN0251,2026-02-14,Mobile Recharge,Bills,244.92,UPI
+TXN0071,2026-02-14,Canteen,Food,1021.63,UPI
+TXN0082,2026-02-14,Streaming,Entertainment,280.95,UPI
+TXN0084,2026-02-15,Stationery,Education,171.7,UPI
+TXN0281,2026-02-15,Fuel Station,Travel,164.93,Card
+TXN0015,2026-02-15,Fuel Station,Travel,137.16,UPI
+TXN0132,2026-02-15,Cab,Travel,790.98,Card
+TXN0090,2026-02-16,Cinema,Entertainment,42.9,Cash
+TXN0146,2026-02-16,Electricity,Bills,156.66,Cash
+TXN0002,2026-02-17,Cafe,Food,178.23,Card
+TXN0112,2026-02-17,Stationery,Education,66.79,UPI
+TXN0125,2026-02-17,Mobile Recharge,Bills,189.62,Card
+TXN0064,2026-02-17,Bus/Metro,Travel,71.04,Card
+TXN0232,2026-02-17,Internet,Bills,223.92,UPI
+TXN0110,2026-02-18,Internet,Bills,174.14,Card
+TXN0168,2026-02-18,Bus/Metro,Travel,244.67,Cash
+TXN0068,2026-02-18,Canteen,Food,137.94,UPI
+TXN0267,2026-02-18,Grocery Store,Food,163.87,UPI
+TXN0115,2026-02-18,Cab,Travel,145.04,UPI
+TXN0171,2026-02-19,Canteen,Food,93.23,UPI
+TXN0099,2026-02-19,Books,Education,384.22,Card
+TXN0042,2026-02-19,Mobile Recharge,Bills,96.17,Card
+TXN0149,2026-02-20,Electricity,Bills,194.48,Card
+TXN0017,2026-02-20,Mobile Recharge,Bills,260.42,UPI
+TXN0129,2026-02-20,Online Marketplace,Shopping,134.2,UPI
+TXN0279,2026-02-22,Cafe,Food,170.76,Card
+TXN0203,2026-02-22,Gift,Other,165.25,Card
+TXN0265,2026-02-22,Gift,Other,167.91,UPI
+TXN0177,2026-02-22,Streaming,Entertainment,278.91,UPI
+TXN0178,2026-02-23,Gift,Other,123.59,UPI
+TXN0067,2026-02-23,Miscellaneous,Other,128.44,UPI
+TXN0123,2026-02-23,Internet,Bills,136.34,Card
+TXN0148,2026-02-24,Cafe,Food,234.27,UPI
+TXN0041,2026-02-25,Cafe,Food,75.93,UPI
+TXN0085,2026-02-25,Restaurant,Food,263.75,Cash
+TXN0253,2026-02-25,Cab,Travel,60.64,UPI
+TXN0175,2026-02-25,Mobile Recharge,Bills,103.13,UPI
+TXN0272,2026-02-26,Mobile Recharge,Bills,427.01,UPI
+TXN0219,2026-02-26,Bus/Metro,Travel,1294.99,UPI
+TXN0214,2026-02-27,Clinic,Healthcare,167.35,UPI
+TXN0060,2026-02-27,Cab,Travel,201.37,UPI
+TXN0183,2026-02-27,Grocery Store,Food,324.4,Card
+TXN0013,2026-02-27,Books,Education,255.01,UPI
+TXN0215,2026-02-28,Clinic,Healthcare,212.16,UPI
+TXN0001,2026-02-28,Pharmacy,Healthcare,267.15,Card
+TXN0153,2026-02-28,Fuel Station,Travel,191.15,Cash
+TXN0016,2026-02-28,Course Fee,Education,54.93,Card
+TXN0151,2026-02-28,Clinic,Healthcare,34.25,Cash
+TXN0274,2026-03-01,Cafe,Food,342.39,UPI
+TXN0160,2026-03-01,Stationery,Education,97.1,Card
+TXN0036,2026-03-02,Mobile Recharge,Bills,214.73,UPI
+TXN0102,2026-03-03,Cinema,Entertainment,221.1,UPI
+TXN0285,2026-03-03,Streaming,Entertainment,97.86,UPI
+TXN0010,2026-03-03,Grocery Store,Food,95.97,Card
+TXN0193,2026-03-03,Internet,Bills,174.93,Card
+TXN0144,2026-03-04,Clinic,Healthcare,154.99,Cash
+TXN0118,2026-03-04,Mobile Recharge,Bills,582.98,UPI
+TXN0276,2026-03-04,Cafe,Food,79.48,UPI
+TXN0074,2026-03-04,Miscellaneous,Other,299.72,Cash
+TXN0259,2026-03-04,Online Marketplace,Shopping,247.66,UPI
+TXN0131,2026-03-05,Bus/Metro,Travel,102.75,UPI
+TXN0006,2026-03-05,Pharmacy,Healthcare,363.09,Card
+TXN0269,2026-03-05,Mobile Recharge,Bills,175.26,UPI
+TXN0199,2026-03-05,Canteen,Food,71.39,Card
+TXN0165,2026-03-05,Online Marketplace,Shopping,134.05,UPI
+TXN0192,2026-03-05,Restaurant,Food,314.55,UPI
+TXN0252,2026-03-06,Pharmacy,Healthcare,125.46,UPI
+TXN0266,2026-03-06,Book Store,Shopping,187.13,Card
+TXN0050,2026-03-06,Internet,Bills,408.91,UPI
+TXN0135,2026-03-06,Canteen,Food,294.0,Cash
+TXN0150,2026-03-06,Internet,Bills,390.93,UPI
+TXN0209,2026-03-06,Clinic,Healthcare,133.3,UPI
+TXN0258,2026-03-07,Internet,Bills,280.18,UPI
+TXN0264,2026-03-08,Miscellaneous,Other,244.81,Card
+TXN0008,2026-03-08,Restaurant,Food,659.89,Cash
+TXN0076,2026-03-08,Pharmacy,Healthcare,139.24,UPI
+TXN0101,2026-03-08,Gift,Other,65.48,Cash
+TXN0095,2026-03-08,Fuel Station,Travel,429.64,UPI
+TXN0169,2026-03-08,Course Fee,Education,182.52,Cash
+TXN0237,2026-03-09,Cinema,Entertainment,231.39,UPI
+TXN0249,2026-03-09,Electricity,Bills,67.55,UPI
+TXN0290,2026-03-09,Stationery,Education,153.85,UPI
+TXN0262,2026-03-09,Cinema,Entertainment,84.46,UPI
+TXN0255,2026-03-09,Gift,Other,242.94,UPI
+TXN0208,2026-03-09,Cab,Travel,378.71,UPI
+TXN0163,2026-03-10,Grocery Store,Food,125.52,Card
+TXN0007,2026-03-10,Pharmacy,Healthcare,231.83,UPI
+TXN0263,2026-03-10,Clothing Store,Shopping,245.38,Card
+TXN0295,2026-03-10,Canteen,Food,127.77,UPI
+TXN0211,2026-03-11,Cafe,Food,126.31,Card
+TXN0201,2026-03-11,Canteen,Food,80.58,UPI
+TXN0133,2026-03-11,Book Store,Shopping,59.46,UPI
+TXN0014,2026-03-12,Streaming,Entertainment,63.61,Card
+TXN0216,2026-03-12,Cafe,Food,100.55,Card
+TXN0091,2026-03-12,Canteen,Food,428.1,Card
+TXN0142,2026-03-13,Stationery,Education,187.2,UPI
+TXN0105,2026-03-14,Pharmacy,Healthcare,126.98,Card
+TXN0037,2026-03-14,Bus/Metro,Travel,96.7,UPI
+TXN0029,2026-03-14,Online Marketplace,Shopping,111.48,Card
+TXN0093,2026-03-15,Gift,Other,195.53,UPI
+TXN0111,2026-03-15,Restaurant,Food,92.09,UPI
+TXN0230,2026-03-15,Cafe,Food,95.44,UPI
+TXN0198,2026-03-16,Clothing Store,Shopping,204.69,UPI
+TXN0248,2026-03-16,Cinema,Entertainment,178.6,UPI
+TXN0240,2026-03-16,Mobile Recharge,Bills,172.3,UPI
+TXN0200,2026-03-16,Pharmacy,Healthcare,193.62,UPI
+TXN0246,2026-03-16,Cafe,Food,77.05,UPI
+TXN0003,2026-03-17,Grocery Store,Food,290.5,Cash
+TXN0077,2026-03-17,Cinema,Entertainment,140.62,UPI
+TXN0141,2026-03-17,Book Store,Shopping,192.67,UPI
+TXN0058,2026-03-17,Electricity,Bills,173.96,UPI
+TXN0207,2026-03-17,Cinema,Entertainment,94.7,UPI
+TXN0137,2026-03-17,Fuel Station,Travel,422.33,Card
+TXN0081,2026-03-18,Miscellaneous,Other,352.59,UPI
+TXN0104,2026-03-19,Miscellaneous,Other,103.75,UPI
+TXN0054,2026-03-19,Cafe,Food,297.48,Card
+TXN0166,2026-03-19,Miscellaneous,Other,239.06,UPI
+TXN0278,2026-03-20,Internet,Bills,416.94,UPI
+TXN0156,2026-03-20,Internet,Bills,191.92,Cash
+TXN0261,2026-03-21,Grocery Store,Food,418.84,Card
+TXN0005,2026-03-21,Electricity,Bills,290.32,UPI
+TXN0143,2026-03-21,Mobile Recharge,Bills,210.67,UPI
+TXN0098,2026-03-21,Streaming,Entertainment,44.6,UPI
+TXN0174,2026-03-22,Book Store,Shopping,116.77,Card
+TXN0073,2026-03-22,Electricity,Bills,355.76,UPI
+TXN0009,2026-03-23,Online Marketplace,Shopping,244.79,UPI
+TXN0023,2026-03-23,Restaurant,Food,224.19,Card
+TXN0130,2026-03-23,Pharmacy,Healthcare,44.97,Card
+TXN0092,2026-03-24,Cab,Travel,278.37,UPI
+TXN0188,2026-03-24,Online Marketplace,Shopping,90.03,UPI
+TXN0062,2026-03-25,Internet,Bills,690.34,UPI
+TXN0063,2026-03-25,Fuel Station,Travel,154.27,Card
+TXN0139,2026-03-26,Miscellaneous,Other,59.28,UPI
+TXN0180,2026-03-26,Mobile Recharge,Bills,304.55,Cash
+TXN0119,2026-03-27,Grocery Store,Food,330.15,UPI
+TXN0159,2026-03-27,Bus/Metro,Travel,83.74,Card
+TXN0299,2026-03-27,Books,Education,61.57,UPI
+TXN0121,2026-03-27,Restaurant,Food,79.34,UPI
+TXN0072,2026-03-27,Mobile Recharge,Bills,99.88,UPI
+TXN0086,2026-03-28,Cafe,Food,117.11,UPI
+TXN0298,2026-03-28,Gift,Other,65.27,UPI
+TXN0065,2026-03-28,Cinema,Entertainment,76.59,UPI
+TXN0057,2026-03-28,Book Store,Shopping,141.81,UPI
+TXN0242,2026-03-28,Electricity,Bills,154.92,UPI
+TXN0025,2026-03-28,Bus/Metro,Travel,69.42,Cash
+TXN0107,2026-03-28,Cinema,Entertainment,35.99,UPI
+TXN0100,2026-03-29,Online Marketplace,Shopping,97.89,UPI
+TXN0184,2026-03-29,Grocery Store,Food,142.02,UPI
+TXN0244,2026-03-29,Fuel Station,Travel,130.16,UPI
+TXN0045,2026-03-29,Cab,Travel,183.49,Card
+TXN0108,2026-03-29,Streaming,Entertainment,186.52,Card
+TXN0070,2026-03-30,Online Marketplace,Shopping,164.03,Card
+TXN0218,2026-03-30,Miscellaneous,Other,512.81,Card
+TXN0213,2026-03-30,Streaming,Entertainment,77.06,UPI
+TXN0173,2026-03-30,Electricity,Bills,155.55,UPI
+TXN0254,2026-03-30,Stationery,Education,247.35,UPI
+TXN0140,2026-03-31,Mobile Recharge,Bills,34.6,UPI
+TXN0044,2026-03-31,Book Store,Shopping,219.19,UPI
+TXN0087,2026-03-31,Streaming,Entertainment,84.87,UPI
